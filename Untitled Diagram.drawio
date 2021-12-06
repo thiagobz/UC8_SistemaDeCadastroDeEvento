@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T14:29:06.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="pHoJLfvQnWOeqKoj0oDz" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T14:46:39.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="UDMtggxJ1t_ktvN9TWRX" version="15.9.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="sistema de cadastro para eventos">
-    <mxGraphModel dx="903" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -181,7 +181,7 @@
         <mxCell id="RGxDsQOP5B6y2GzN9bs0-69" value="&lt;span style=&quot;color: rgb(93 , 103 , 109) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif&quot;&gt;Cadastro negado por exceder o&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#5d676d&quot; face=&quot;open sans, sans-serif&quot;&gt;limite de participantes&lt;br&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=rgb(0, 0, 0);align=center;strokeColor=rgb(0, 0, 0);fillColor=rgb(255, 255, 255);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="547.5" y="860" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RGxDsQOP5B6y2GzN9bs0-73" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);align=center;strokeColor=rgb(0, 0, 0);strokeWidth=1;fillColor=rgb(255, 255, 255);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="RGxDsQOP5B6y2GzN9bs0-73" value="Fim" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);align=center;strokeColor=rgb(0, 0, 0);strokeWidth=1;fillColor=rgb(255, 255, 255);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="950" y="705" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
