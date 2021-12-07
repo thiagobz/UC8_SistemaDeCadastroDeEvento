@@ -1,4 +1,4 @@
-# UC8_SistemaDeCadastroDeEvento
+# SENAI UC8 Sistema de cadastro de evento
 Sistema de cadastro de evento. Tarefa sugerida na UC8.
 
 
